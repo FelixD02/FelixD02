@@ -15,9 +15,8 @@ Este repositorio contiene proyectos y ejemplos de código relacionados con mis e
 
 ## Contenido
 
-- **Proyecto 1:** [Nombre del Proyecto](enlace-al-proyecto) - Breve descripción del proyecto y cómo usarlo.
-- **Proyecto 2:** [Nombre del Proyecto](enlace-al-proyecto) - Breve descripción del proyecto y cómo usarlo.
-- **Ejemplos de Código:** Carpeta con ejemplos de código en Python relacionados con mis estudios y prácticas personales.
+- **Proyecto 1:** [Sistema de Recomendación de Peliculas](https://github.com/FelixD02/FelixD02/blob/main/Recommendation.py) - Implementación de un sistema de recomendación de peliculas con grafos.
+- **Proyecto 2:** [Sistema de Aeorpuerto](https://github.com/FelixD02/FelixD02/tree/main/Aeropuerto) - Implementación de un programa para la administración de un Aeropuerto.
 
 ## Tecnologías Utilizadas
 
